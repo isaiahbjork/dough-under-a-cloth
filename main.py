@@ -9,7 +9,7 @@ import sys
 
 TEXT = (
     "Someone tucked a tea towel over the dough and sat down. "
-    "The oven is off. "
+    "The kitchen is warm. "
     "Bakers call this hour proving. "
     "The dough proves nothing. "
     "It rests, and rising is what its rest looks like. "

@@ -8,7 +8,7 @@ import os
 import sys
 
 TEXT = (
-    "Dough in a bowl under a tea towel, by the window. "
+    "Someone tucked a tea towel over the dough and sat down. "
     "The oven is off. "
     "Bakers call this hour proving. The dough proves nothing. "
     "It rests, and rising is what its rest looks like. "

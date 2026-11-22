@@ -8,9 +8,9 @@ import os
 import sys
 
 TEXT = (
-    "Someone tucked a tea towel over the dough and sat down. "
+    "You tucked a tea towel over the dough and sat down. "
     "The oven is off. "
-    "Bakers call this hour proving. The dough proves nothing. "
+    "Bakers call this hour proving, but the dough proves nothing. "
     "It rests, and rising is what its rest looks like. "
     "The bowl holds all of it. "
     "Nobody is needed until evening. "
